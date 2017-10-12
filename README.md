@@ -1,4 +1,6 @@
 # hello-world
 
-an extra line
-I love sports, coding, my partner and my family too
+
+My first one
+I love sports, love travelling, love my partner, love my family and love coding too
+
